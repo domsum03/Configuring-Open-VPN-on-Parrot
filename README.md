@@ -26,6 +26,8 @@ sudo openvpn insertvpnfilename.vpn
 ![Download OpenVPN Config](https://i.imgur.com/BerhqBv.png)
 
 ### Step 4: Ensure VPN is running
-Run the following command ip a from Parrot virtual machine. If VPN is running you should see anew ip address stable-privacy
+Run the following command below 
+ip a 
+If VPN is running you should see a new ip address stable-privacy
 
 Congrats you now have access to OpenVPN that is used to work on labs on TryHackme
